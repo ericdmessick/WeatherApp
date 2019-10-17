@@ -10,7 +10,7 @@ const weatherCases = {
   },
   Clear: {
     title: "Clear and Hot",
-    subtitle: "Clear qoote from trump",
+    subtitle: "Custom clear subtitle",
     
   },
   Thunderstorm: {
