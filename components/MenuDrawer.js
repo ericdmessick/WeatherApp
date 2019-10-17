@@ -22,7 +22,7 @@ export default class MenuDrawer extends React.Component {
                 <Image style={styles.img} source={require("../assets/snack-icon.png")} />
               </View>
               <View style={styles.profileText}>
-                <Text style={styles.name}>Trumprature</Text>
+                <Text style={styles.name}>Eric Messick</Text>
               </View>
             </View>
           </View>
